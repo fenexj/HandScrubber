@@ -173,6 +173,6 @@ Module['FS_createPath']('/HandScrubber/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 97, "filename": "/UE4CommandLine.txt"}, {"start": 97, "audio": 0, "end": 345034415, "filename": "/HandScrubber/Content/Paks/HandScrubber-HTML5.pak"}], "remote_package_size": 345034415, "package_uuid": "61d84c40-807d-483f-98d5-084b1a3b295e"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 97, "filename": "/UE4CommandLine.txt"}, {"start": 97, "audio": 0, "end": 38222300, "filename": "/HandScrubber/Content/Paks/HandScrubber-HTML5.pak"}], "remote_package_size": 38222300, "package_uuid": "e6dc5336-d5ad-493e-bdfe-70448a9e8b3f"});
 
 })();
